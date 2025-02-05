@@ -27,6 +27,7 @@ public class Main {
 			
 			switch(opcion) {
 			case 1:
+				System.out.println("pasofvr");
 				System.out.println("-------------------------------------------");
 				System.out.println();
 				break;
