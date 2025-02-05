@@ -30,7 +30,7 @@ public class Main {
 
 				System.out.println("pasofvr");
 
-				System.out.println("paso 2 y 3");
+				System.out.println("paso 4 y 3");
 
 				System.out.println("-------------------------------------------");
 				System.out.println();
