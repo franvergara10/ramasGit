@@ -27,7 +27,7 @@ public class Main {
 			
 			switch(opcion) {
 			case 1:
-				System.out.println("Paso 1");
+				System.out.println("paso 2");
 				System.out.println("-------------------------------------------");
 				System.out.println();
 				break;
